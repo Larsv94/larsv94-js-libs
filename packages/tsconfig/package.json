@@ -1,0 +1,11 @@
+{
+  "name": "@larsv94/tsconfig",
+  "version": "0.0.0",
+  "private": false,
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-library.json"
+  ]
+}
